@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anup Tiwari (@AnupTiwari-design)
+# 👋 Hi, I’m Anup Tiwari (@AnupTiwari)
 
 - 👨‍🏫 I’m a **Java and Technical Trainer** with a focus on teaching real-world development skills.
 - 💡 I teach **MERN Stack**, **Data Science**, and **Full Stack Development**.
