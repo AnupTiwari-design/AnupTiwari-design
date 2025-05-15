@@ -1,6 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/0c69f875-61ff-4633-9f5a-0cc17514b66a)
 
-![A_professional_digital_graphic_design_banner_showc](https://github.com/user-attachments/assets/84e7b337-e905-45cd-8371-2a23aea13895)![Banner](https://github.com/AnupTiwari-design/AnupTiwari-design/blob/main/banner.png)
 # 👋 Hi, I’m Anup Tiwari (@AnupTiwari)
 
 - 👨‍🏫 I’m a **Java and Technical Trainer** with a focus on teaching real-world development skills.
